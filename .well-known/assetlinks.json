@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.appeaseedu.appeaseeduuser",
+    "sha256_cert_fingerprints":
+    ["F4:30:31:67:DB:A3:55:E8:4E:06:1D:52:CA:0D:CC:67:E9:E5:E8:25:B8:EF:6D:8D:CF:6D:30:16:D7:EA:3C:4D"]
+  }
+}]
